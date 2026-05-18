@@ -202,19 +202,15 @@ I work at the intersection of **Artificial Intelligence, Robotics, Computer Visi
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shivgupta198922&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="stats graph"  />
+  
 
-  <img src="https://streak-stats.demolab.com?user=shivgupta198922&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=shivgupta198922&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=25" height="280" alt="streak graph"  />
 
 </div>
 
 <br>
 
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivgupta198922&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170" alt="languages graph"  />
-
-</div>
 
 ---
 
@@ -224,7 +220,24 @@ I work at the intersection of **Artificial Intelligence, Robotics, Computer Visi
   <img src="https://raw.githubusercontent.com/shivgupta198922/shivgupta198922/output/snake.svg" alt="Snake animation" />
 </div>
 
-Profile Readme Generator
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivgupta198922&show_icons=true&locale=en" alt="shivgupta198922" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivgupta198922&" alt="shivgupta198922" /></p>
+
+<h1 >🧑‍💻 Achievements & Recognition</h1>
+
+🇹🇼 Selected for Taiwan International Internship Program  
+
+🏆 Winner — National Science Day organized by Radio Astronomy Centre (RAC)  
+
+🥈 2nd Position — IIT Hyderabad Tinker’s Lab Hackathon  
+
+🏆 Project Expo Winner — Sri Eshwar College of Engineering  
+
+🏆 Winner — CODELEE Best Programmer Award  
+
+⭐ LeetCode Rating: 1880  
+
+🚀 Passionate about building AI-powered robotics, intelligent systems, and scalable applications.
+
+⭐ Feel free to explore my repositories or connect with me for collaborations and opportunities.
+
+
