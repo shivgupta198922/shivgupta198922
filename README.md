@@ -2,8 +2,16 @@
 <h3 align="center">AI & Data Science Engineer | Robotics | Computer Vision | Generative AI | App Developer | Full Stack Development</h3>
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img align="left" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhkNXh3dWNzcjhudThtZzlld3ZlcDdidHB2eDhsbzdtanozOXliOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGWFVvwJybDwTlnTSS/giphy.gif" />
+
+<img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRmNzM2M3E0cThmbnV3MDVmejlza2l6bzUzZTd4a3V5cHl4bDYzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
+
+<img align="right" height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 </div>
+
+
 
 ###
 
