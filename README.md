@@ -218,7 +218,7 @@ I work at the intersection of **Artificial Intelligence, Robotics, Computer Visi
 
 ---
 
-# 🐍 Contribution Snake
+<h1>🐍 Contribution Snake</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shivgupta198922/shivgupta198922/output/snake.svg" alt="Snake animation" />
